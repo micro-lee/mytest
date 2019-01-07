@@ -5,5 +5,6 @@ public class Test {
         System.out.println ("我是第一次添加的!");
         System.out.println ("我是第二次添加的!");
         System.out.println ("我是第同步到github添加的!");
+System.out.println ("我是master分支同步到github添加的!");
     }
 }
